@@ -1,0 +1,19 @@
+{
+  "@@locale": "vi",
+  "home": "Trang chủ",
+  "profile": "Cá nhân",
+  "language": "Ngôn ngữ",
+  "save": "Lưu",
+  "logOut": "Đăng xuất",
+  "workOrder": "Lệnh Làm Việc",
+  "status": "Trạng thái",
+  "statusCompleted": "Hoàn thành",
+  "statusPending": "Chờ xử lý",
+  "statusInProgress": "Đang thực hiện",
+  "statusCancelled": "Đã huỷ",
+  "statusOnHold": "Tạm dừng",
+  "signIn": "Đăng nhập",
+  "errorSignIn": "Sai tên đăng nhập hoặc mật khẩu!!",
+  "requiredUsername": "Yêu cầu nhập username!!",
+  "requiredPassword": "Yêu cầu nhập mật khẩu!!"
+}

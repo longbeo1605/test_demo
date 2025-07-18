@@ -1,0 +1,1 @@
+enum WorkOrderStatus {completed, pending, inProgress, cancelled, onHold}

@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "home": "Home",
+  "profile": "Profile",
+  "language": "Language",
+  "save": "Save",
+  "logOut": "Log out",
+  "workOrder": "Work Orders",
+  "status": "Status here",
+  "statusCompleted": "Completed",
+  "statusPending": "Pending",
+  "statusInProgress": "In Progress",
+  "statusCancelled": "Cancelled",
+  "statusOnHold": "On Hold",
+  "signIn": "Sign In",
+  "errorSignIn": "Username or Password is not correct!!",
+  "requiredUsername": "Username is required!!",
+  "requiredPassword": "Password is required!!"
+}
